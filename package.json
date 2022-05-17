@@ -1,0 +1,8 @@
+{
+  "name": "PERN-stack",
+  "version": "1.0.0",
+  "description": "A quick to-do app to practice the pern stack",
+  "main": "index.js",
+  "author": "Eric St. Louis <ericstlouis2001@gmail.com>",
+  "license": "MIT"
+}
