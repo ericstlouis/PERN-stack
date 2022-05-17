@@ -5,7 +5,7 @@
 https://user-images.githubusercontent.com/50284068/168924827-bd89a523-5f3b-4f38-8ec9-fdd986210dc9.mp4
 
 
-##Description
+## Description
 I made this todo app utilizing the PERN stack which is basically
 - postgres
 - Express
